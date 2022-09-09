@@ -1,5 +1,5 @@
 # colorss: css colors
-simplified css file for importing yeun's "open colors" color pallete
+simplified css file for importing [yeun's "open colors"](https://github.com/yeun/open-color) color pallete
 
 ## to use
 import to your css using  
